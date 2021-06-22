@@ -9,7 +9,6 @@ Projeto de teste utilizando Selenide e cucumber
 * Junit
 
 ## Pre requisitos
-Para execução dos testes são necessario ter
 
 * Instalado Git
 * Instalado IntelliJ
@@ -21,4 +20,9 @@ Para execução dos testes são necessario ter
 
 - [x] Login com sucesso
 - [x] Compra de duas roupas
+
+## Execução
+Para executar os cenario é necessario abrir o projeto no IntelliJ, baixar as dependecias presentes no pom.xlm
+
+E então dentro da pasta Test selecionar a classe que deseja executar e clicar em Run
 
