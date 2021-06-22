@@ -14,6 +14,7 @@ Projeto de teste utilizando Selenide e cucumber
 * Instalado IntelliJ
 * Instalado JDK
 * Instalado Maven
+* Instalado ChromeDriver
 * Setup Project
 
  ## Cenários :white_check_mark:
